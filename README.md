@@ -12,4 +12,17 @@ SIG node
 DRS:
 SIG_NODEの環境を揃える。
 
+16:30 promoteus softengineer gotjosh
 
+KubeCon 2025 Japan Prometheus Maintainer Session 
+
+show of hands 
+
+後日見る￥
+
+apple version 16:30
+
+openapi 
+crossplane calim, 
+tenant-demo
+:
